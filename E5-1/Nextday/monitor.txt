@@ -1,0 +1,152 @@
+Part	2015-05-06-11-42-28	Vector.java	deactivated
+Part	2015-05-06-11-42-28	Project Explorer	activated
+Part	2015-05-06-11-42-36	TestNextDay.java	opened
+Part	2015-05-06-11-42-36	TestNextDay.java	broughtToTop
+Part	2015-05-06-11-42-36	Project Explorer	deactivated
+CaretPosition	2015-05-06-11-42-36	TestNextDay.java	1
+Part	2015-05-06-11-42-36	TestNextDay.java	activated
+Part	2015-05-06-11-42-44	TestNextDay.java	deactivated
+Part	2015-05-06-11-42-44	MoocTest	activated
+Part	2015-05-06-11-42-55	MoocTest	deactivated
+CaretPosition	2015-05-06-11-42-55	TestNextDay.java	1
+Part	2015-05-06-11-42-55	TestNextDay.java	activated
+Part	2015-05-06-11-43-00	TestNextDay.java	deactivated
+Part	2015-05-06-11-43-00	Project Explorer	activated
+Part	2015-05-06-11-43-00	CalendarUnit.java	opened
+Part	2015-05-06-11-43-00	CalendarUnit.java	broughtToTop
+Part	2015-05-06-11-43-00	Project Explorer	deactivated
+CaretPosition	2015-05-06-11-43-00	CalendarUnit.java	1
+Part	2015-05-06-11-43-00	CalendarUnit.java	activated
+Part	2015-05-06-11-43-01	CalendarUnit.java	deactivated
+Part	2015-05-06-11-43-01	Project Explorer	activated
+Part	2015-05-06-11-43-01	Date.java	opened
+Part	2015-05-06-11-43-01	Date.java	broughtToTop
+Part	2015-05-06-11-43-01	Project Explorer	deactivated
+CaretPosition	2015-05-06-11-43-01	Date.java	1
+Part	2015-05-06-11-43-01	Date.java	activated
+CaretPosition	2015-05-06-11-43-03	Date.java	19
+CaretPosition	2015-05-06-11-43-05	Date.java	14
+CaretPosition	2015-05-06-11-43-15	Date.java	15
+CaretPosition	2015-05-06-11-43-17	Date.java	18
+CaretPosition	2015-05-06-11-43-18	Date.java	18
+CaretPosition	2015-05-06-11-43-18	Date.java	19
+Part	2015-05-06-11-43-22	Date.java	deactivated
+Part	2015-05-06-11-43-22	Project Explorer	activated
+Part	2015-05-06-11-43-22	Day.java	opened
+Part	2015-05-06-11-43-22	Day.java	broughtToTop
+Part	2015-05-06-11-43-22	Project Explorer	deactivated
+CaretPosition	2015-05-06-11-43-22	Day.java	1
+Part	2015-05-06-11-43-22	Day.java	activated
+CaretPosition	2015-05-06-11-43-24	Day.java	11
+CaretPosition	2015-05-06-11-43-25	Day.java	11
+CaretPosition	2015-05-06-11-43-29	Day.java	11
+CaretPosition	2015-05-06-11-43-29	Day.java	13
+CaretPosition	2015-05-06-11-43-31	Day.java	13
+CaretPosition	2015-05-06-11-43-31	Day.java	15
+CaretPosition	2015-05-06-11-43-33	Day.java	13
+CaretPosition	2015-05-06-11-43-35	Day.java	11
+CaretPosition	2015-05-06-11-43-44	Day.java	11
+CaretPosition	2015-05-06-11-43-45	Day.java	11
+CaretPosition	2015-05-06-11-43-45	Day.java	11
+CaretPosition	2015-05-06-11-43-48	Day.java	11
+CaretPosition	2015-05-06-11-43-49	Day.java	11
+CaretPosition	2015-05-06-11-43-51	Day.java	11
+CaretPosition	2015-05-06-11-43-53	Day.java	11
+CaretPosition	2015-05-06-11-43-53	Day.java	13
+CaretPosition	2015-05-06-11-43-56	Day.java	13
+CaretPosition	2015-05-06-11-43-57	Day.java	13
+FileChange	2015-05-06-11-43-57	C:\mooctest\projects\88\2879\Nextday\src\Day.java	[DeleteDelta, position: 10, lines: [			return true;, 		else]]	[InsertDelta, position: 13, lines: [		else, 			return true;]]	
+Part	2015-05-06-11-44-04	Day.java	deactivated
+Part	2015-05-06-11-44-04	MoocTest	activated
+Part	2015-05-06-11-44-06	MoocTest	deactivated
+CaretPosition	2015-05-06-11-44-06	Day.java	13
+Part	2015-05-06-11-44-06	Day.java	activated
+CaretPosition	2015-05-06-11-44-06	Day.java	13
+CaretPosition	2015-05-06-11-44-08	Day.java	11
+CaretPosition	2015-05-06-11-44-09	Day.java	11
+FileChange	2015-05-06-11-44-09	C:\mooctest\projects\88\2879\Nextday\src\Day.java	[DeleteDelta, position: 10, lines: [			return false;, 		else]]	[InsertDelta, position: 13, lines: [		else, 			return false;]]	
+Part	2015-05-06-11-44-13	Day.java	deactivated
+Part	2015-05-06-11-44-13	MoocTest	activated
+Part	2015-05-06-11-44-15	MoocTest	deactivated
+Part	2015-05-06-11-44-15	Project Explorer	activated
+Part	2015-05-06-11-44-15	Month.java	opened
+Part	2015-05-06-11-44-15	Month.java	broughtToTop
+Part	2015-05-06-11-44-16	Project Explorer	deactivated
+CaretPosition	2015-05-06-11-44-16	Month.java	1
+Part	2015-05-06-11-44-16	Month.java	activated
+Part	2015-05-06-11-44-20	Month.java	deactivated
+Part	2015-05-06-11-44-20	Project Explorer	activated
+Part	2015-05-06-11-44-20	Nextday.java	opened
+Part	2015-05-06-11-44-20	Nextday.java	broughtToTop
+Part	2015-05-06-11-44-20	Project Explorer	deactivated
+CaretPosition	2015-05-06-11-44-20	Nextday.java	1
+Part	2015-05-06-11-44-20	Nextday.java	activated
+CaretPosition	2015-05-06-11-44-22	Nextday.java	7
+Part	2015-05-06-11-44-23	Nextday.java	deactivated
+Part	2015-05-06-11-44-23	Project Explorer	activated
+Part	2015-05-06-11-44-24	Year.java	opened
+Part	2015-05-06-11-44-24	Year.java	broughtToTop
+Part	2015-05-06-11-44-24	Project Explorer	deactivated
+CaretPosition	2015-05-06-11-44-24	Year.java	1
+Part	2015-05-06-11-44-24	Year.java	activated
+CaretPosition	2015-05-06-11-44-27	Year.java	28
+FileChange	2015-05-06-11-44-45	C:\mooctest\projects\88\2879\Nextday\src\Year.java	[ChangeDelta, position: 25, lines: [				&& (((currentPos % 4 == 0) && (currentPos % 100 != 0)) && (currentPos % 400 == 0)))] to [				&& (((currentPos % 4 == 0) && (currentPos % 100 != 0)) || (currentPos % 400 == 0)))]]	
+CaretPosition	2015-05-06-11-44-46	Year.java	26
+Part	2015-05-06-11-44-52	Year.java	deactivated
+Part	2015-05-06-11-44-52	MoocTest	activated
+Part	2015-05-06-11-45-02	MoocTest	deactivated
+CaretPosition	2015-05-06-11-45-02	Year.java	26
+Part	2015-05-06-11-45-02	Year.java	activated
+CaretPosition	2015-05-06-11-45-03	Year.java	27
+Part	2015-05-06-11-45-03	Year.java	deactivated
+Part	2015-05-06-11-45-03	Project Explorer	activated
+Part	2015-05-06-11-45-07	Vector.java	broughtToTop
+Part	2015-05-06-11-45-07	Project Explorer	deactivated
+Part	2015-05-06-11-45-07	Vector.java	activated
+Part	2015-05-06-11-45-08	Year.java	broughtToTop
+Part	2015-05-06-11-45-08	Vector.java	deactivated
+CaretPosition	2015-05-06-11-45-08	Year.java	27
+Part	2015-05-06-11-45-08	Year.java	activated
+Part	2015-05-06-11-45-08	Vector.java	closed
+Part	2015-05-06-11-45-09	TestNextDay.java	closed
+Part	2015-05-06-11-45-09	CalendarUnit.java	closed
+Part	2015-05-06-11-45-11	Date.java	closed
+Part	2015-05-06-11-45-12	Day.java	closed
+Part	2015-05-06-11-45-12	Month.java	closed
+Part	2015-05-06-11-45-13	Nextday.java	closed
+Part	2015-05-06-11-45-14	Year.java	deactivated
+Part	2015-05-06-11-45-14	Project Explorer	activated
+Part	2015-05-06-11-45-14	Year.java	closed
+Part	2015-05-06-11-45-17	Triangle.java	opened
+Part	2015-05-06-11-45-17	Triangle.java	broughtToTop
+Part	2015-05-06-11-45-17	Project Explorer	deactivated
+CaretPosition	2015-05-06-11-45-17	Triangle.java	1
+Part	2015-05-06-11-45-17	Triangle.java	activated
+Part	2015-05-06-11-45-19	Triangle.java	deactivated
+Part	2015-05-06-11-45-19	Project Explorer	activated
+Part	2015-05-06-11-45-32	Project Explorer	deactivated
+CaretPosition	2015-05-06-11-45-32	Triangle.java	1
+Part	2015-05-06-11-45-32	Triangle.java	activated
+CaretPosition	2015-05-06-11-45-32	Triangle.java	36
+Part	2015-05-06-11-45-40	Triangle.java	deactivated
+Part	2015-05-06-11-45-40	Project Explorer	activated
+Part	2015-05-06-11-45-41	TestTriangle.java	opened
+Part	2015-05-06-11-45-41	TestTriangle.java	broughtToTop
+Part	2015-05-06-11-45-41	Project Explorer	deactivated
+CaretPosition	2015-05-06-11-45-41	TestTriangle.java	1
+Part	2015-05-06-11-45-41	TestTriangle.java	activated
+Part	2015-05-06-11-45-48	TestTriangle.java	deactivated
+Part	2015-05-06-11-45-48	Project Explorer	activated
+Part	2015-05-06-11-45-48	Triangle.java	broughtToTop
+Part	2015-05-06-11-45-48	Project Explorer	deactivated
+CaretPosition	2015-05-06-11-45-48	Triangle.java	36
+Part	2015-05-06-11-45-48	Triangle.java	activated
+CaretPosition	2015-05-06-11-45-49	Triangle.java	1
+CaretPosition	2015-05-06-11-46-15	Triangle.java	36
+CaretPosition	2015-05-06-11-46-37	Triangle.java	37
+CaretPosition	2015-05-06-11-46-38	Triangle.java	37
+CaretPosition	2015-05-06-11-46-39	Triangle.java	37
+FileChange	2015-05-06-11-46-40	C:\mooctest\projects\88\2879\Triangle\src\Triangle.java	[ChangeDelta, position: 36, lines: [				isTriangle = false;] to [				isTriangle = true;]]	
+CaretPosition	2015-05-06-11-46-41	Triangle.java	33
+Part	2015-05-06-11-46-51	Triangle.java	deactivated
+Part	2015-05-06-11-46-51	MoocTest	activated
